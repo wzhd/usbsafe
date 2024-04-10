@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "sw")(type "KiCad")(uri "${KIPRJMOD}/load-switch-sot23-6.kicad_sym")(options "")(descr ""))
+)
